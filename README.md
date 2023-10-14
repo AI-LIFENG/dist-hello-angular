@@ -26,3 +26,10 @@ cd /www/ && ng new hello-angular
 #...y routing
 #...Sass
 ```
+
+- 启动应用（开发模式）
+```sh
+ng serve
+```
+
+- 打包应用
