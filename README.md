@@ -29,7 +29,7 @@ cd /www/ && ng new hello-angular
 
 - 启动应用（开发模式）
 ```sh
-ng serve
+ng serve --port 8288 --host 0.0.0.0
 ```
 
 - 打包应用
